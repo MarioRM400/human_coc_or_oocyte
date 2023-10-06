@@ -1,0 +1,6 @@
+path: C:\ConceivableProjects\coc_or_oocyte\after\v4\Data
+train: images/train 
+val: images/val 
+
+names:
+  0: coc_or_oocyte
